@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 whats up
+=======
+<html>
+
+</html>
+>>>>>>> 62fb7b69c4047a2418b4d96af0bd9235f895a408
